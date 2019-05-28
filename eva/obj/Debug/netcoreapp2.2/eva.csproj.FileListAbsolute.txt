@@ -1,0 +1,11 @@
+C:\Users\Diego\source\repos\eva\eva\bin\Debug\netcoreapp2.2\eva.deps.json
+C:\Users\Diego\source\repos\eva\eva\bin\Debug\netcoreapp2.2\eva.runtimeconfig.json
+C:\Users\Diego\source\repos\eva\eva\bin\Debug\netcoreapp2.2\eva.runtimeconfig.dev.json
+C:\Users\Diego\source\repos\eva\eva\bin\Debug\netcoreapp2.2\eva.dll
+C:\Users\Diego\source\repos\eva\eva\bin\Debug\netcoreapp2.2\eva.pdb
+C:\Users\Diego\source\repos\eva\eva\obj\Debug\netcoreapp2.2\eva.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\eva\eva\obj\Debug\netcoreapp2.2\eva.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\eva\eva\obj\Debug\netcoreapp2.2\eva.AssemblyInfoInputs.cache
+C:\Users\Diego\source\repos\eva\eva\obj\Debug\netcoreapp2.2\eva.AssemblyInfo.cs
+C:\Users\Diego\source\repos\eva\eva\obj\Debug\netcoreapp2.2\eva.dll
+C:\Users\Diego\source\repos\eva\eva\obj\Debug\netcoreapp2.2\eva.pdb
